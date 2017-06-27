@@ -1,0 +1,1 @@
+# leanft-java-app-junit
