@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/HP/LeanFT/SDK/Java/com.hp.lft.sdk-standalone.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:\Program Files (x86)\HP\LeanFT\SDK\Java\com.hp.lft.sdk-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/HP/LeanFT/SDK/Java/com.hp.lft.unittesting.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:\Program Files (x86)\HP\LeanFT\SDK\Java\com.hp.lft.sdk-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/HP/LeanFT/SDK/Java/com.hp.lft.report.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:\Program Files (x86)\HP\LeanFT\SDK\Java\com.hp.lft.sdk-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/HP/LeanFT/SDK/Java/com.hp.lft.reportbuilder-standalone.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:\Program Files (x86)\HP\LeanFT\SDK\Java\com.hp.lft.sdk-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/HP/LeanFT/SDK/Java/com.hp.lft.verifications.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:\Program Files (x86)\HP\LeanFT\SDK\Java\com.hp.lft.sdk-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="appmodels"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
