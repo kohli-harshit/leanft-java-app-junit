@@ -4,7 +4,7 @@ import com.hp.lft.sdk.*;
 import com.hp.lft.sdk.java.*;
 
 public class SwingSet {
-	String appPath = "C:\\Users\\leanft\\Desktop\\SwingSet2.jar";
+	String appPath = "resources\\SwingSet2.jar";
 	public SwingAppModel OR;
 	
 	public SwingSet() throws GeneralLeanFtException
